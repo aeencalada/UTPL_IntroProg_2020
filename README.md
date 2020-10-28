@@ -16,6 +16,6 @@ En la siguiente lista irán apareciendo las actividades desarrolladas:
 
 ## Créditos
 
-**Autor**: _Colocar aquí su nombre_
+**Autor**: Eduardo Encalada
 
 **Periodo Académico**: Octubre 2020 - Febrero 2021
