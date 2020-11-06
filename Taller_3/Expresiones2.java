@@ -29,7 +29,7 @@ public class Expresiones2 {
 		resp6 = ( a + b * c + e ) <= e * d * b && ( (float) c / a + e - d ) < e + d - c + b * a;
 
 		System.out.println("\nExpresión 6:");
-		System.out.println("    ( a + b * c + e ) <= e * d * b AND ( c / a + e - d) < e + d – c + b * a");
+		System.out.println("    (a + b * c + e) <= e * d * b AND (c / a + e - d) < e + d – c + b * a");
 		System.out.println("    donde: a = 100 , b = -12 , c = 4000 , d = 5 , e = 0");
 		System.out.println("Resultado:");
 		System.out.println("    " + resp6);
