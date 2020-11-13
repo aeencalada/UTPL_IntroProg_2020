@@ -1,3 +1,4 @@
+// Solución solo de algunas de las expresiones planteadas
 public class Expresiones2 {
 	public static void main (String[] args){
 		float resp1;

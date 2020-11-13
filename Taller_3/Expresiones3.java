@@ -1,3 +1,4 @@
+// Solución solo del caso 3
 public class Expresiones3 {
     public static void main (String[] args){
         // Declaración de variables
