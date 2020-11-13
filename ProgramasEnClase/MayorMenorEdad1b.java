@@ -4,7 +4,7 @@ public class MayorMenorEdad1b {
 	public static void main (String[] args) {
 		// Declaración de variables
 		Scanner sc = new Scanner(System.in);
-		short anioAct, anioNac;
+		short anioNac, anioAct;
 		byte edad;
 		String mensaje;
 

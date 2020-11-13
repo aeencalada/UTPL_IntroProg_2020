@@ -14,10 +14,9 @@ public class MayorMenorEdad1 {
 		edad = (byte) (anioAct - anioNac);
 
 		if (edad >= 18) {
-			System.out.println("Usted es MAYOR DE EDAD");
+			System.out.println("\nUsted es MAYOR DE EDAD");
 		} else {
-			System.out.println("Usted es MENOR DE EDAD");
+			System.out.println("\nUsted es MENOR DE EDAD");
 		}
-
 	}
 }

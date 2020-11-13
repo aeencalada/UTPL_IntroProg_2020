@@ -12,9 +12,9 @@ public class ParImpar1 {
 
 		// Proceso
 		if (numero % 2 == 0) {
-			System.out.println("\nEl número es PAR");
+			System.out.println("\nEl número que usted ingresó es PAR");
 		} else {
-			System.out.println("\nEl número es IMPAR");
+			System.out.println("\nEl número que usted ingresó es IMPAR");
 		}
 
 	}
