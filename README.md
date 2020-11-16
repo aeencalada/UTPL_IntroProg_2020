@@ -8,11 +8,12 @@ El repositorio está organizado por carpetas. Cada carpeta corresponde a una act
 
 En la siguiente lista irán apareciendo las actividades desarrolladas:
 
+* **Autoestudio_1**: Conceptos básicos de programación
 * **Taller_1**: Instalación, configuración del entorno de trabajo.
 * **Tarea_Clase_1**: Primeros pasos en GIT.
 * **Taller_2**: Configuración y uso de Git y GitHub
-* **Autoestudio_1**: Conceptos básicos de programación
-
+* **Taller_3**: Manejo de tipos de datos, operadores y expresiones en lenguajes de alto nivel
+* **Taller_4**: Construcción de programas básicos
 
 ## Créditos
 
