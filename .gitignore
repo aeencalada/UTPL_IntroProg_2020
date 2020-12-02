@@ -31,5 +31,10 @@ hs_err_pid*
 >>>>>>> 53358ba1e9a015025893e367fad819ba4b99a710
 
 /Temp/*
+/NetBeans/*
 /ProgramasEnClase/PromedioPares1/nbproject/private/
 /ProgramasEnClase/PromedioPares1/build/
+/ProgramasEnClase/PromedioPares1c/nbproject/private/
+/ProgramasEnClase/PromedioPares1b/nbproject/private/
+/ProgramasEnClase/PromedioPares1b/build/
+/ProgramasEnClase/PromedioPares1c/build/

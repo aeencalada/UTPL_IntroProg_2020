@@ -1,11 +1,9 @@
-package promediopares1;
+package promediopares1c;
 
+// Promedio de los N primeros números pares
 import java.util.Scanner;
 
-// 2,   4,   6,   8,   10, ...
-// 1*2  2*2  3*2  4*2  5*2
-public class PromedioPares1 {
-
+public class PromedioPares1c {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         short N, c;
@@ -26,5 +24,4 @@ public class PromedioPares1 {
         System.out.println("\nEl promedio de los " + N
                 + " primeros números pares es " + promedio);
     }
-
 }
