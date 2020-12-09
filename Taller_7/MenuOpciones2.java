@@ -1,8 +1,8 @@
-package menuopciones3;
+package menuopciones2;
 
 import java.util.Scanner;
 
-public class MenuOpciones3 {
+public class MenuOpciones2 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
