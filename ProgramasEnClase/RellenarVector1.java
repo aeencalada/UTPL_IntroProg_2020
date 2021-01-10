@@ -25,6 +25,7 @@ public class RellenarVector1 {
 
     //Procedimiento que muestra el contenido de un vector
     public static void mostrarVector(int[] x) {
+        System.out.print(”[");        
         for (int i = 0; i <= x.length - 1; i++) {
             System.out.print(x[i] + " ");
         }
