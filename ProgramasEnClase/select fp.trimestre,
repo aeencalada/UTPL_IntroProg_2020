@@ -1,0 +1,7 @@
+select fp.trimestre,
+lb.autorprincipal,
+sum(pd.prestamosrealizados) prestados, sum(pd.prestamosdevoluciontardia) tarde
+from librosprestados lb, prestamosdiarios pd, fechasprestamos fp where lb.idlibro = pd.idlibro
+and pd.idfecha = fp.idfecha
+and fp.anio = 2019
+group by fp.trimestre, lb.autorprincipal with rollup;
